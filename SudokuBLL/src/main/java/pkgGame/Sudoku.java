@@ -1,5 +1,5 @@
 package pkgGame;
 
-public class main {
+public class Sudoku {
 
 }
